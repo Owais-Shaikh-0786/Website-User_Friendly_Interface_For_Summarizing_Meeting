@@ -25,4 +25,8 @@ We hope you find this project helpful and informative. Thank you for your intere
 
 ## Screenshots
 
-![Uploading Screenshot 2023-07-19 035145.png…]()
+![Website-1](https://github.com/Owais-Shaikh-0786/Website-User_Friendly_Interface_For_Summarizing_Meeting/assets/139638554/8ada7100-5a37-4170-908f-d1f6edd5bcdf)
+
+![Website-2](https://github.com/Owais-Shaikh-0786/Website-User_Friendly_Interface_For_Summarizing_Meeting/assets/139638554/94b8d45c-0b28-4db1-a49c-8342c4b875f4)
+
+![Website -3](https://github.com/Owais-Shaikh-0786/Website-User_Friendly_Interface_For_Summarizing_Meeting/assets/139638554/f260fb33-908c-4f58-8306-e8c2a0feb66d)
