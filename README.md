@@ -18,4 +18,6 @@ This is a website created for the Deep Blue Summarizing Meeting Project. The pro
 
 If you have any questions or suggestions regarding this project, please feel free to contact us at [uwaiskgn@gmail.com].
 
+Project Link :  https://summarizing-meeting-project.web.app
+
 We hope you find this project helpful and informative. Thank you for your interest!
