@@ -18,6 +18,11 @@ This is a website created for the Deep Blue Summarizing Meeting Project. The pro
 
 If you have any questions or suggestions regarding this project, please feel free to contact us at [uwaiskgn@gmail.com].
 
-Project Link :  https://summarizing-meeting-project.web.app
+Project Link :  https://summarizing-meeting-project.web.app![Screenshot 2023-07-19 035145](https://github.com/Owais-Shaikh-0786/Website-User_Friendly_Interface_For_Summarizing_Meeting/assets/139638554/438817b8-21a1-436e-9ffc-fd173bdb13e3)
+
 
 We hope you find this project helpful and informative. Thank you for your interest!
+
+## Screenshots
+
+![Uploading Screenshot 2023-07-19 035145.png…]()
