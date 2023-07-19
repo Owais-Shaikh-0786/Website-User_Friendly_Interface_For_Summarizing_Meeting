@@ -16,7 +16,7 @@ This is a website created for the Deep Blue Summarizing Meeting Project. The pro
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to contact us at [uwaiskgn@gmail.com].
+If you have any questions or suggestions regarding this project, please feel free to contact us at [muhammad.owais.shaikh.0786gmail.com].
 
 Deep Blue Summarizing Meeting Project: https://summarizing-meeting-project.web.app
 
